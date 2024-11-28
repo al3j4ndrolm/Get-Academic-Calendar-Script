@@ -30,17 +30,16 @@ pip install selenium webdriver_manager
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/al3j4ndrolm/Get-Academic-Calendar-Script
    ```
 
 2. **Modify the Script**:
-   Edit the script to match the structure of the academic calendar page you want to scrape. You'll need to adjust element selectors if you're targeting a specific website.
+   Edit the script to match the structure of the academic calendar page you want to scrape. You'll need to adjust element selectors if you're targeting a specific website, for now it is completely functional for De Anza College.
 
 3. **Run the Script**:
    After setting everything up, you can run the script using:
    ```bash
-   python get_academic_calendar.py
+   python3 get_academic_calendar.py
    ```
 
    The script will automatically fetch the academic dates and display them in the terminal.
