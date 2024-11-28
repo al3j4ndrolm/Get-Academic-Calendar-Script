@@ -19,7 +19,6 @@ Make sure you have the following installed:
 You will need to install the following libraries:
 - `selenium`
 - `webdriver_manager`
-- `smtplib` (for email notifications, if required)
 
 You can install the required libraries using `pip`:
 
